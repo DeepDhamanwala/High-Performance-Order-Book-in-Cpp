@@ -15,21 +15,21 @@ Thread-safe concurrent order processing
 
 🔹 Features
 
-✅ Limit order book (Buy & Sell sides)
+-> Limit order book (Buy & Sell sides)
 
-✅ Price–time priority matching
+-> Price–time priority matching
 
-✅ Partial and full order fills
+-> Partial and full order fills
 
-✅ Order cancellation
+-> Order cancellation
 
-✅ Order modification
+-> Order modification
 
-✅ Thread-safe operations
+-> Thread-safe operations
 
-✅ Deterministic matching behavior
+-> Deterministic matching behavior
 
-✅ Low-latency design (cache-friendly data structures)
+-> Low-latency design (cache-friendly data structures)
 
 
 🔹 Supported Order Types
